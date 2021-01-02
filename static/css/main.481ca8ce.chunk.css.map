@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,cACI,kBAAmB,CACnB,mBAAoB,CACpB,YAAc,CACd,qBACJ","file":"main.481ca8ce.chunk.css","sourcesContent":[".btn-disabled {\r\n    cursor: not-allowed;\r\n    pointer-events: none;\r\n    color: #c0c0c0;\r\n    background-color: #ffffff;\r\n}"]}
